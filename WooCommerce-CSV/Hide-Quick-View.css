@@ -1,0 +1,9 @@
+/* Hide Quick View on shop/archive pages */
+div.c-product-grid__atc-block {
+    display: none !important;
+}
+
+    .quick-view-button {
+        display: none !important;
+    }
+
